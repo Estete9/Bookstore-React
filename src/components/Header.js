@@ -11,7 +11,7 @@ function Header() {
   return (
     <div className={styles.header}>
       <a className={styles.logo} href="/">
-        Bookstore CMS
+        Bookstore
       </a>
       <ul className={styles.navbar}>
         {links.map((link) => (
