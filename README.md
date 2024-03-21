@@ -128,7 +128,7 @@ Use the scripts:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page UPDATE URL HERE](https://github.com/Estete9/https://github.com/Estete9/bookstore-react/issues/issues).
+Feel free to check the [issues page](https://github.com/Estete9/bookstore-react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
